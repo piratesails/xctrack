@@ -1,5 +1,5 @@
 Versions of XCTrack PRO
-pi_sa version 0.9.5.3
+pi_sa version 0.9.6
 
 
 ::::::::::::: FEATURES :::::::::::::
